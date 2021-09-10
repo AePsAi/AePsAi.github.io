@@ -202,7 +202,7 @@ $(".m11 i.xi-arrow-right").on("click", function(){
 })
 //////////////////////full///////
 
-$("#header i, .m09 img").on("click",function(){
+$("#header i, .m13 img").on("click",function(){
     $("#full").addClass("on")
 })
 

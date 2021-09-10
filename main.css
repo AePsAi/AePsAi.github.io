@@ -57,7 +57,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 
 @media(max-width:768px){
     .m01{width: auto;margin: 0 auto; background:#f2f2f2 url(./assets/img/bg03.png);}
-    .m01 h2 {font-size: 60px;text-align: center;font-family: 'Allison', cursive;letter-spacing: 0.025em;margin-bottom: 20px;transform: translateY(100px);opacity: 0;padding: 0 15px;}
+    .m01 h2 {font-size: 80px;text-align: center;font-family: 'Allison', cursive;letter-spacing: 0.025em;margin-bottom: 20px;transform: translateY(100px);opacity: 0;padding: 0 15px;}
     .m01 p {font-size: 16px;text-align: center;letter-spacing: 0.025em;line-height: 1.4;transform: translateY(100px);opacity: 0 ;padding: 0 15px;}
 
     .m01.on h2{transform: translateY(0);opacity: 1;transition: 0.5s;padding: 0 15px;}
@@ -74,7 +74,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m02 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m02 .container .mockup figure .portfolio01{height: 440px; border-radius: 20px;overflow: hidden;}
 .m02 .txt h3 {font-size: 60px;font-family: 'Allison', cursive; margin-bottom: 30px;}
-.m02 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m02 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m02 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m02 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -86,7 +86,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m02 .container .mockup figure{background: none;height: auto; padding: 30px 30px 0px 31px;}
     .m02 .container .mockup figure .portfolio01{height: 177px; border-radius: 10px;overflow: hidden;}
     .m02 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m02 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4;margin-bottom: 20px;}
+    .m02 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4;margin-bottom: 20px;}
     .m02 .txt ul {line-height: 1.4; margin-bottom:20px;}
     .m02 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 }
@@ -99,7 +99,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m03 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m03 .container .mockup figure .portfolio02{height: 440px; border-radius: 10px;overflow: hidden;}
 .m03 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m03 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m03 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m03 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m03 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -112,7 +112,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m03 .container .mockup figure{background: none;height: auto; padding: 30px 30px 0px 31px;}
     .m03 .container .mockup figure .portfolio02{height: 177px; border-radius: 10px;overflow: hidden;}
     .m03 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m03 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m03 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m03 .txt ul {line-height: 1.4;margin-bottom: 20px;}
     .m03 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 }
@@ -124,7 +124,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m04 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m04 .container .mockup figure .portfolio03{height: 440px; border-radius: 20px;overflow: hidden;}
 .m04 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m04 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m04 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m04 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m04 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -136,7 +136,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m04 .container .mockup figure{background:none;height: auto; padding: 30px 30px 0px 31px;}
     .m04 .container .mockup figure .portfolio03{height: 177px; border-radius: 10px;overflow: hidden;}
     .m04 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m04 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m04 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m04 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m04 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 }
@@ -149,7 +149,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m05 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m05 .container .mockup figure .portfolio04{height: 440px; border-radius: 20px;overflow: hidden;}
 .m05 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m05 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m05 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m05 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m05 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -162,7 +162,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m05 .container .mockup figure{background:none;height: auto;padding: 30px 30px 0px 31px;}
     .m05 .container .mockup figure .portfolio04{height: 177px; border-radius: 10px;overflow: hidden;}
     .m05 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m05 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m05 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m05 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m05 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -175,7 +175,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m06 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m06 .container .mockup figure .portfolio05{height: 440px; border-radius: 20px;overflow: hidden;}
 .m06 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m06 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m06 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m06 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m06 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -187,7 +187,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m06 .container .mockup figure{background:none;height: auto; padding: 30px 30px 10px 31px;}
     .m06 .container .mockup figure .portfolio05{height: 177px; border-radius: 10px;overflow: hidden;}
     .m06 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m06 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m06 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m06 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m06 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 }
@@ -200,7 +200,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m07 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m07 .container .mockup figure .portfolio06{height: 440px; border-radius: 20px;overflow: hidden;}
 .m07 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m07 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m07 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m07 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m07 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -213,7 +213,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m07 .container .mockup figure{background:none;height: auto;padding: 30px 30px 0px 31px;}
     .m07 .container .mockup figure .portfolio06{height: 177px; border-radius: 10px;overflow: hidden;}
     .m07 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m07 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m07 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m07 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m07 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -225,7 +225,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m08 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m08 .container .mockup figure .portfolio07{height: 440px; border-radius: 20px;overflow: hidden;}
 .m08 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m08 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m08 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m08 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m08 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -237,7 +237,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m08 .container .mockup figure{background:none;height: auto; padding: 30px 30px 10px 31px;}
     .m08 .container .mockup figure .portfolio07{height: 177px; border-radius: 10px;overflow: hidden;}
     .m08 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m08 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m08 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m08 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m08 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 }
@@ -249,7 +249,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m09 .container .mockup figure{background: url(./assets/img/TV.png)no-repeat;height: 550px; padding: 50px 250px 100px 100px;}
 .m09 .container .mockup figure .portfolio08{height: 440px; border-radius: 20px;overflow: hidden;}
 .m09 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m09 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
+.m09 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m09 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m09 .txt i {font-size: 30px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -262,7 +262,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m09 .container .mockup figure{background:none;height: auto;padding: 30px 30px 0px 30px;}
     .m09 .container .mockup figure .portfolio08{height: 177px; border-radius: 20px;overflow: hidden;}
     .m09 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m09 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
+    .m09 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m09 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m09 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin:10px 0px 20px 0px;}
 
@@ -276,7 +276,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m10 .container .mockup figure .web img{width: 100%;position: relative;transform: translateY(0);transition: 3s;}
 .m10 .container .mockup figure .web:hover img{transform:translateY(calc(-100% + 440px));}
 .m10 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m10 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4; margin-bottom: 30px;}
+.m10 .txt p {font-size: 18px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m10 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m10 .txt i {font-size: 40px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin-right: 10px;}
 
@@ -297,8 +297,8 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m10 .container .mockup figure .web img{width: 100%;position: relative;transform: translateY(0);transition: none;}
     .m10 .container .mockup figure .web:hover img{transform:translateY(0);}
 
-    .m10 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m10 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4; margin-bottom: 20px;}
+    .m10 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
+    .m10 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m10 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m10 .txt i {font-size: 40px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin-right: 10px;}
 
@@ -351,7 +351,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m12 .container .mockup figure .web img{width: 100%;position: relative;transform: translateY(0);transition: 3s;}
 .m12 .container .mockup figure .web:hover img{transform:translateY(calc(-100% + 440px));}
 .m12 .txt h3 {font-size: 60px;font-family: 'Allison', cursive;margin-bottom: 30px;}
-.m12 .txt p {font-size: 14px;font-weight: 300;line-height: 1.4; margin-bottom: 30px;}
+.m12 .txt p {font-size: 14px;font-weight: 500;line-height: 1.4; margin-bottom: 30px;}
 .m12 .txt ul {line-height: 1.4;margin-bottom: 30px;}
 .m12 .txt i {font-size: 40px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin-right: 10px;}
 
@@ -359,7 +359,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m12 .txt a:after {content: "";display: block;width: 30px;height: 30px;background: #fff;border-radius: 50%;position: absolute;top: 5px;right: 35px;opacity: 0;transition: 0.5s;}
 .m12 .txt a:hover{width: 200px;}
 .m12 .txt a:hover:after {right: 5px;opacity: 1;}
-.m12 .txt strong{display: inline-block;width: 70px; font-weight: 700;text-transform: uppercase;}
+.m12 .txt strong{display: inline-block;width: 40px; font-weight: 700;text-transform: uppercase;}
 .m12 .info{line-height: 1.4;}
 
 @media(max-width:768px){
@@ -373,7 +373,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m12 .container .mockup figure .web img{width: 100%;position: relative;transform: translateY(0);transition: 3s;}
     .m12 .container .mockup figure .web:hover img{transform:translateY(calc(-100% + 440px));}
     .m12 .txt h3 {font-size: 40px;font-family: 'Allison', cursive;margin-bottom: 20px;}
-    .m12 .txt p {font-size: 16px;font-weight: 300;line-height: 1.4; margin-bottom: 20px;}
+    .m12 .txt p {font-size: 16px;font-weight: 500;line-height: 1.4; margin-bottom: 20px;}
     .m12 .txt ul {line-height: 1.4;margin-bottom: 30px;}
     .m12 .txt i {font-size: 20px;color: #fff;background: #333;padding: 10px;border-radius: 10px;margin-right: 10px;}
 
@@ -381,7 +381,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m12 .txt a:after {content: "";display: block;width: 30px;height: 30px;background: #fff;border-radius: 50%;position: absolute;top: 5px;right: 35px;opacity: 1;transition:none;}
     .m12 .txt a:hover{width: 200px;}
     .m12 .txt a:hover:after {right: 5px;opacity: 1;}
-    .m12 .txt strong{display: inline-block;width: 70px; font-weight: 700;text-transform: uppercase;}
+    .m12 .txt strong{display: inline-block;width: 40px; font-weight: 700;text-transform: uppercase;}
     .m12 .info{line-height: 1.4;}
 }
 
@@ -429,8 +429,9 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     #full .b_profile {display: flex;flex-direction: column; align-items: center;}
     #full .b_profile h2{font-size: 30px;font-weight: 500;margin-bottom: 20px;}
     #full .b_profile p{font-size: 16px;font-weight: 100;margin-bottom: 20px;}
+    #full .b_profile .gnb{margin-left: 30px;}
 
-    #full .b_profile li{line-height: 30px;}
+    #full .b_profile li{line-height: 20px;}
     #full .b_profile li:hover{color: #38CEA0;}
     #full .b_profile li:before {content: "\e924";font-family: xeicon!important;margin-right: 10px;}
     #full .b_profile li:hover:before {content: "\e916";font-family: xeicon!important;margin-right: 20px;transition: 0.3s;}
