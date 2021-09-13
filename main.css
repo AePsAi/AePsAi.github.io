@@ -400,7 +400,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
     .m13 .container figure{width: 150px;border-radius: 50%;overflow: hidden;margin: 30px auto;}
     .m13 .container img{width: 100%;cursor: pointer;}
     .m13 .container h2 {font-size: 30px;font-weight: 300;margin-bottom: 20px;}
-    .m13 .container p {font-size: 14px;font-weight: 100;}
+    .m13 .container p {font-size: 14px;font-weight: 300;}
 }
 
 #full {position: fixed ;top: 0;left: 0;width: 100%;height: 0;overflow: hidden; background: #f2f2f2 url(./assets/img/bg02.png);transition: 0.3s; z-index: 1000;}
