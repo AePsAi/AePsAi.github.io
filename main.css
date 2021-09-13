@@ -365,7 +365,7 @@ body {font-family:'Open Sans', 'Noto Sans KR', sans-serif;}
 .m12 .info{line-height: 1.4;}
 
 @media(max-width:768px){
-    .m12 {background:#f2f2f2 url(./assets/img/bg04.png);}
+    .m12 {background:#f2f2f2 url(./assets/img/bg03.png);}
     .m12 .container {display: flex;flex-direction: column; width: auto;margin: 0 auto;}
     .m12 .container .mockup {flex: 9;}
     .m12 .container .txt {flex: 7;display: flex; align-items: center;padding: 30px 30px 0px 30px}
